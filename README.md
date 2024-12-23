@@ -1,11 +1,8 @@
-# Event-Management
-Free Download Source Code "Event_Management_System"
-
 FIRST Download
 
 1.XAMPP
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+2."TEXT EDITOR" NOTEPAD++ OR VS CODE/ ETC.
 
 3"Event_Management_System"
 
@@ -29,5 +26,3 @@ Admin
 user: admin
 pass: admin123
 
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
